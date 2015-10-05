@@ -1,0 +1,16 @@
+{
+  "name": "lalit-js-font-detector",
+  "version": "0.0.3",
+  "homepage": "http://www.lalit.org/lab/javascript-css-font-detect/",
+  "authors": [
+    "Lalit Patel (http://www.lalit.org/)"
+  ],
+  "description": "A brilliant JS font detector",
+  "main": "fontdetect.js",
+  "keywords": [
+    "js",
+    "font",
+    "detector"
+  ],
+  "license": "Apache 2.0"
+}
